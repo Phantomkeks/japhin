@@ -1,0 +1,4 @@
+Höhe 21 Pixel
+Breite 21 Pixel
+Abstand Seitenrand 3 Pixel
+Abstand voneinander 2 Pixel
